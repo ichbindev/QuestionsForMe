@@ -44,7 +44,7 @@ How do you handle scaling?
 
 What is the biggest tech issue you’re facing right now?
 
-* What tech are you scoping out to implement in the future?
+What technologies are you looking to utilize in the future that you are excited about?
 
 
 ## Organization
