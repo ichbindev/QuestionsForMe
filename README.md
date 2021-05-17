@@ -44,6 +44,8 @@ How do you handle scaling?
 
 What is the biggest tech issue you’re facing right now?
 
+* What tech are you scoping out to implement in the future?
+
 
 ## Organization
 What is your favorite part of working here? 
