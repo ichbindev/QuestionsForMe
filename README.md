@@ -26,6 +26,8 @@ Ideally, what role will I play on the team?
 
 Are there mentorship opportunities? (Both ways, to get or be a mentor)
 
+Will I be expected to be on call? If so, what is my expected response time?
+
 
 ## Tech Questions
 What do you use for source control? (If they don't use source control, run!)
@@ -34,13 +36,15 @@ What is the dev environment like (Windows or \*nix? Is there a required IDE or f
 
 What is your release process like? How mature is your DevOps pipeline?
 
-What is your SDLC process (Are you agile? Sprint length? Waterfall/Kanban?)
+What is your SDLC process? (Are you agile? Sprint length? Waterfall/Kanban?)
 
 What is your software testing model? Is there a dedicated SDET or QA? Do you practice TDD?
 
 What is your tech stack/the tech stack I'll be working on? (It doesn't always match the job description!)
 
-How do you handle scaling?
+What monitoring and alerting tools do you use?
+
+How do you view/search your logs?
 
 What is the biggest tech issue you’re facing right now?
 
