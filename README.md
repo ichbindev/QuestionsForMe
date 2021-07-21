@@ -48,6 +48,8 @@ How do you view/search your logs?
 
 What is the biggest tech issue you’re facing right now?
 
+What technologies are you looking to utilize in the future that you are excited about?
+
 
 ## Organization
 What is your favorite part of working here? 
