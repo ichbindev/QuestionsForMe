@@ -1,4 +1,4 @@
-# Do You Have Any Questions?
+# "Do you have any questions for me?"
 
 You've done it. You've just finished explaining the algorithm you knocked out in the last 45 minutes. There are only a few minutes left in the interview. The interviewer asks "Do you have any questions for me?" and your mind goes blank. Here are some questions you can prepare beforehand to show interest, get answers, or just sound like you know what you're talking about.
 
@@ -49,6 +49,8 @@ What monitoring and alerting tools do you use?
 How do you view/search your logs?
 
 What is the biggest tech issue you’re facing right now?
+
+What technologies are you looking to utilize in the future that you are excited about?
 
 
 ## Organization
