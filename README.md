@@ -8,9 +8,11 @@ How many interviews are in your process? Which are technichal vs informational/b
 
 What are the next steps? What is the timeline for when I should be hearing back?
 
-How are you handling COVID? What will happen when it's safe to go back to offices?
+Is this position remote, in office, or hybrid? What will happen when it's safe to go back to offices if it's "remote for now."
 
-If I will be in an office, how are the desks set up? (Office/cube/open office? Monitors and other equipment? Adjustable Desk/Ergonomic Chair?)
+How are the desks set up in the office? (Office/cube/open office? Monitors and other equipment? Adjustable Desk/Ergonomic Chair?)
+
+How do you support career growth? Is there a training budget?
 
 
 ## Role Questions
