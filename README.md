@@ -30,6 +30,10 @@ Are there mentorship opportunities? (Both ways, to get or be a mentor)
 
 Will I be expected to be on call? If so, what is my expected response time?
 
+What are the typical responsibilities for this role? (Trust what the hiring manager says over the job description, they often don't match)
+
+What happens when an IC misses a deadline?
+
 
 ## Tech Questions
 What do you use for source control? (If they don't use source control, run!)
@@ -52,12 +56,31 @@ What is the biggest tech issue you’re facing right now?
 
 What technologies are you looking to utilize in the future that you are excited about?
 
+How is tech debt handled? Is there time allocated to work on tech debt?
 
-## Organization
+
+## Career Questions
+
+What do the goals for the first year of this position look like?
+
+What are the possible career progressions from this role? 
+
+What does the promotion process look like? What are the promotion criteria? Is there a cap on the number of promotions per cycle?
+
+
+## Organization Questions
 What is your favorite part of working here? 
 
 What is your least favorite part of working here? 
 
 What is something about this company that is different from anywhere else you've worked?
 
-How does this company make money? Are you profitable?
+How does this company make money? Are you profitable?\
+
+Will I have to sign an NDA?
+
+What is the overtime policy? About how many hours a week does someone need to spend to be successful at this role? How many hours would be expected for a high performer?
+
+How are project requirements delivered to engineering teams? Are engineers involved in the process or are they dictated from customers/product teams?
+
+How flexible is the process for moving teams? 	
