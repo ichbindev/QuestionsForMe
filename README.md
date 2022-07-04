@@ -83,4 +83,8 @@ What is the overtime policy? About how many hours a week does someone need to sp
 
 How are project requirements delivered to engineering teams? Are engineers involved in the process or are they dictated from customers/product teams?
 
-How flexible is the process for moving teams? 	
+What is the process like for changing teams? How often, on average, does an employee (voluntarily) change teams?
+
+## Other Resources
+
+https://github.com/viraptor/reverse-interview/
