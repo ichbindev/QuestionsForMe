@@ -75,7 +75,9 @@ What is your least favorite part of working here?
 
 What is something about this company that is different from anywhere else you've worked?
 
-How does this company make money? Are you profitable?
+How does this company make money? 
+
+(For startups) Are you default alive? Are you profitable? When do you expect to reach profitability? 
 
 Will I have to sign an NDA?
 
