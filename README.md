@@ -34,6 +34,8 @@ What are the typical responsibilities for this role? (Trust what the hiring mana
 
 What happens when an IC misses a deadline?
 
+Who _wouldn't_ be a good fit for this position?
+
 
 ## Tech Questions
 What do you use for source control? (If they don't use source control, run!)
@@ -86,6 +88,10 @@ What is the overtime policy? About how many hours a week does someone need to sp
 How are project requirements delivered to engineering teams? Are engineers involved in the process or are they dictated from customers/product teams?
 
 What is the process like for changing teams? How often, on average, does an employee (voluntarily) change teams?
+
+What do you not like about your company?
+
+If you were in charge, what would you change?
 
 ## Other Resources
 
